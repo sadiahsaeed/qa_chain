@@ -5,3 +5,4 @@ fastapi
 langchain_openai
 python_multipart
 langchain_community
+streamlit-chat
